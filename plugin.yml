@@ -1,0 +1,11 @@
+name: DarkTape
+main: net.thedarktide.sifflion.darktape.DarkTape
+version: 1.6.4.8a
+website: www.thedarktide.net
+description: That which holds DarkTide together.
+authors: [Sifflion, Xolsom, Celeo, '1770749', noahgolm, rephistorch]
+commands:
+  home:
+    usage: /<command>
+  darktape:
+    usage: /<command>
